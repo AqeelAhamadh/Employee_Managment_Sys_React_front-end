@@ -1,13 +1,13 @@
-# Falcons_employee_mangement_react-app
+# Falcons_employee_mangement_Sys_ react_front-end
 sltc_falcon  group project  , employee management system
  -----------
  Group members [Team falcon]
+ - AA1948 - Aqeel Ahamadh
 - AA1683 - K.S.Winodahewa
 - AA1679 - E.M.M.S Ekanayaka
 - AA2099 - G.S.K Abeywickrama
 - AA1874 - Nayani Nawarathne
 - AA1897 -  R.M.J.N.Kumari Rajapaksha
-- AA1948 - Aqeel Ahamadh
 - AA1898- S.A.S.A Dissanayake
 - AA2075- Tharushi Umayanga
 - AA1822 - M.M.R.Y.M.B Amarathunga
@@ -15,10 +15,9 @@ sltc_falcon  group project  , employee management system
 
 
 
-Note: this is a repository of Employee Management System Frontend. the repository of the backend is available here: https://github.com/f/employee-management-system-API
 
 -------------
-Backend repository: https://github.com/NdaAZ/Falcons_employee_mangement_web_api
+Backend repository: https://github.com/AqeelAhamadh/Employee_Management_Sys_Web_API.git
 
 Website   [  netify] : https://loquacious-cucurucho-cb7e57.netlify.app/
 -----------
